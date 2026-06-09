@@ -73,14 +73,42 @@ streamlit/
 screenshots/
 ```
 
-## Screenshots
+# Dashboard Screenshots
 
-overall_dashboard.png
-vehicle_dashboard.png
-revenue_dashboard.png
-cancellation_dashboard.png
-ratings_dashboard.png
-streamlit_dashboard.png
+## Overall Dashboard
+
+![Overall Dashboard](screenshots/overall_dashboard.png)
+
+---
+
+## Vehicle Type Analysis
+
+![Vehicle Dashboard](screenshots/vehicle_dashboard.png)
+
+---
+
+## Revenue Analysis
+
+![Revenue Dashboard](screenshots/revenue_dashboard.png)
+
+---
+
+## Cancellation Analysis
+
+![Cancellation Dashboard](screenshots/cancellation_dashboard.png)
+
+---
+
+## Ratings Analysis
+
+![Ratings Dashboard](screenshots/ratings_dashboard.png)
+
+---
+
+## Streamlit Dashboard
+
+![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+
 
 ## Author
 
