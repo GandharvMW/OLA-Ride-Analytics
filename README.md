@@ -77,37 +77,37 @@ screenshots/
 
 ## Overall Dashboard
 
-![Overall Dashboard](screenshots/overall_dashboard.png)
+![Overall Dashboard](overall_dashboard.png)
 
 ---
 
 ## Vehicle Type Analysis
 
-![Vehicle Dashboard](screenshots/vehicle_dashboard.png)
+![Vehicle Dashboard](vehicle_dashboard.png)
 
 ---
 
 ## Revenue Analysis
 
-![Revenue Dashboard](screenshots/revenue_dashboard.png)
+![Revenue Dashboard](revenue_dashboard.png)
 
 ---
 
 ## Cancellation Analysis
 
-![Cancellation Dashboard](screenshots/cancellation_dashboard.png)
+![Cancellation Dashboard](cancellation_dashboard.png)
 
 ---
 
 ## Ratings Analysis
 
-![Ratings Dashboard](screenshots/ratings_dashboard.png)
+![Ratings Dashboard](ratings_dashboard.png)
 
 ---
 
 ## Streamlit Dashboard
 
-![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+![Streamlit Dashboard](streamlit_dashboard.png)
 
 
 ## Author
